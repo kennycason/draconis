@@ -1,18 +1,8 @@
-Marines
+Draconis
 =================
 
-Play here: http://ken-soft.com/marines/
+A very incomplete 2D Javascript RPG, built during a short hackathon.
 
-Controls:
-Primary Weapon: Mouse Click (Primary);
-Secondary Weapon: Mouse Click (Secondary);
+Play here: http://kennycason.com/games/draconis/
 
-Movement:
-Move Left: Left, A
-Move Right: Right, D
-Move Up: Up, W
-Move Down: Down, S
-
-Enter: Reset
-
-<img src="https://raw.github.com/kennycason/marines/master/img/screenshots/screenshot1.png"/>
+<img src="/screenshot.jpg?raw=true"/>
